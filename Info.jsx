@@ -11,6 +11,9 @@ function Note() {
       <p>
 	Zylker Corporation is a global technology company focused on delivering cutting-edge solutions and services to empower businesses and individuals in the digital age. With a passion for innovation and a commitment to excellence, we strive to create impactful products that drive growth and transform industries.
       </p>
+      <p>
+	Zylker Corporation is one of the Leading Techology Companies in the Software Industry.
+      </p>
     </div>
   );
 }
