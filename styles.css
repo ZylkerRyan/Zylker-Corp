@@ -48,6 +48,27 @@ footer p {
   font-size: 1.1em;
   margin-bottom: 6px;
 }
+
+.note h2 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+.note h3 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+.note h4 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+.note h5 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+.note h6 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
 .note p {
   font-size: 1.1em;
   margin-bottom: 10px;
